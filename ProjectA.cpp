@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {jjjjjj
+int main() {
 
     int choice;
     string systemType;
